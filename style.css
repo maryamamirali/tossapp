@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: burlywood;
+}
+
+button{
+    margin-top: 60px;
+    margin-left: 350px;
+    padding: 10px 20px;
+    border-radius: 18px;
+    font-size: 100%;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+#image{
+    border-radius: 200px;
+    margin-left: 600px;
+}
+
